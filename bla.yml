@@ -1,3 +1,4 @@
+name: Bla
 channels:
   - pytorch
   - defaults
